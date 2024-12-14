@@ -34,6 +34,4 @@ This project is a comprehensive pipeline for analyzing and visualizing aviation 
 - Execute `aviationCleaning.py` to process and clean the data for analysis.
 - Launch `aviationVisual.py` to explore incidents through the interactive web application.
 
----
 
-Let me know if you’d like to add specific details or a demo section!
